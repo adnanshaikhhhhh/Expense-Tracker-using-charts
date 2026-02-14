@@ -24,3 +24,16 @@ body {
   color: #cbd5f5;
 }
 
+button:hover {
+    background: #574bff;
+    transform: scale(1.05);
+}
+
+#message {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #00ffcc;
+  /* tfugshu */
+}
+
+
